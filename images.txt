@@ -1,2 +1,7 @@
 zcube/cadvisor:v0.37.0
 prom/blackbox-exporter:v0.18.0
+prom/prometheus:v2.37.8
+prom/prometheus:v2.52
+grafana/grafana:8.5.27
+prom/alertmanager:v0.25.0
+mysql:5.7.36
