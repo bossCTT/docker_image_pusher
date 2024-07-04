@@ -1,4 +1,4 @@
-zcube/cadvisor:v0.47.3
+zcube/cadvisor:v0.47.0
 prom/blackbox-exporter:v0.18.0
 prom/prometheus:v2.37.8
 prom/prometheus:v2.52.1
