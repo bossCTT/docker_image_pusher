@@ -1,3 +1,7 @@
-redis:5.0.7
-redis:5.0.0
-calico/kube-controllers:v3.19.4
+k8s.gcr.io/google_containers/kube-proxy:v1.23.11
+k8s.gcr.io/google_containers/kube-scheduler:v1.23.11
+k8s.gcr.io/google_containers/kube-controller-manager:v1.23.11
+k8s.gcr.io/google_containers/kube-apiserver:v1.23.11
+k8s.gcr.io/google_containers/etcd:3.4.13-0 
+k8s.gcr.io/google_containers/coredns:1.7.0 
+k8s.gcr.io/google_containers/pause:3.2
