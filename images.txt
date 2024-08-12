@@ -1,1 +1,1 @@
-postgres:15.6
+moby/buildkit:buildx-stable-1
