@@ -1,1 +1,1 @@
-pixman/pixman
+grafana/grafana:8.3.1
